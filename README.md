@@ -4,4 +4,4 @@
 * You can create a link by putting square brackets, followed by the link in the round brackets
 
 # Adding an image
-![](https://github.com/chuweiquan/WQ_Portfolio/blob/main/images/test%20image.jpg)
+![](/images/test%20image.jpg)
